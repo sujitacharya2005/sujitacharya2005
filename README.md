@@ -15,3 +15,13 @@ Welcome to my GitHub! I'm a results-driven software developer with deep experien
 | Web3 Wallet   | Brave Wallet, Chromium‑based DApp integration |
 | Tools & Infra | ProGuard, PLM, JIRA, Charles Proxy, Android Studio |
 
+
+
+## 📫 Contact
+
+- 🔗 [LinkedIn](https://linkedin.com/in/sujit-acharya/)
+- 💻 [GitHub](https://github.com/sujitacharya2005)
+- 📧 sujitacharya2005@gmail.com
+
+> ⭐ Thanks for visiting my profile — feel free to explore my projects or reach out for collaboration!
+
