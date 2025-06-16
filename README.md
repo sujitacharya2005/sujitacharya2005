@@ -1,16 +1,17 @@
-## Hi there 👋
+##  👋 Hi, I'm Sujit Acharya
+🚀 **Senior Android Engineer | Chromium & Brave Contributor | WebUI Developer**
 
-<!--
-**sujitacharya2005/sujitacharya2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a results-driven software developer with deep experience in building high-performance Android apps, contributing to Chromium-based projects (including the **Brave Browser**), and developing powerful WebUI features. My work spans consumer products, Web3 wallets, and browser engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+| Domain        | Skills |
+|---------------|--------|
+| Android       | Java, Kotlin, Jetpack, Retrofit, Room, Compose |
+| Browser       | [Brave](https://brave.com) / [Chromium](https://www.chromium.org) / [Santa](https://www.santabrowser.com) — C++, JNI_ZERO, Mojom, KeyedService |
+| WebUI         | Web Components, Polymer, Mojo bindings, WebUIController |
+| Web3 Wallet   | Brave Wallet, Chromium‑based DApp integration |
+| Tools & Infra | ProGuard, PLM, JIRA, Charles Proxy, Android Studio |
+
